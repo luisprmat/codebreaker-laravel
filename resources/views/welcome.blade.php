@@ -1,3 +1,3 @@
 <x-layout>
-    <h1>Hello world!</h1>
+    <h1 class="text-red-500 text-xl">Hello world!</h1>
 </x-layout>
