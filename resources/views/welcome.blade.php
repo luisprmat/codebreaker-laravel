@@ -1,8 +1,8 @@
 <x-layout>
-    <section class="container mx-auto px-6 h-full flex flex-col">
-        <header class="flex justify-center print:justify-start">
+    <section class="container mx-auto px-6 h-full flex flex-col max-w-5xl">
+        <header class="flex">
             <h1>
-                <img src="/logo.svg" alt="Codebreaker" aria-label="Codebreaker" class="print:invert print:w-36">
+                <img src="/logo.svg" alt="Codebreaker" aria-label="Codebreaker" class="print:invert w-52 print:w-36">
             </h1>
         </header>
 
